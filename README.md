@@ -1,7 +1,5 @@
 # avd-diagnostics-collector
 
-# Collect-AVDUpdateLogs.ps1
-
 Collect **Windows Update**, **servicing**, and **Azure Virtual Desktop (AVD)** agent diagnostics into a single ZIP file for support/triage.
 
 ## What it collects
